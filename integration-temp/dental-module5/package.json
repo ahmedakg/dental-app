@@ -1,0 +1,26 @@
+{
+  "name": "dental-clinic-billing-module",
+  "version": "1.0.0",
+  "description": "Module 5: Billing & Revenue Management for Abdullah Dental Care",
+  "main": "src/components/billing/BillingModule.tsx",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "dexie": "^3.2.4",
+    "dexie-react-hooks": "^1.1.7"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0",
+    "@vitejs/plugin-react": "^4.0.0",
+    "typescript": "^5.0.0",
+    "vite": "^4.3.0"
+  },
+  "author": "Dr. Ahmed Abdullah Khan",
+  "license": "MIT"
+}
